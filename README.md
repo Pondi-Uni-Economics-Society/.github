@@ -164,9 +164,14 @@ For software and data repositories, contributors should use separate branches fo
 
 ---
 
-## Repository Structure
+## Organisation Repositories
 
-As the Society's work grows, repositories may be created for research and data, events, the magazine, documentation, analysis tools and educational resources. The structure will develop with members' needs; these are possible future areas, not a list of repositories that already exist.
+- [Society Archive](https://github.com/Pondi-Uni-Economics-Society/Society-Archive) — approved public papers, presentations, event records and recording links.
+- [Database](https://github.com/Pondi-Uni-Economics-Society/Database-) — shared documented economic data resources.
+- [Research Project Template](https://github.com/Pondi-Uni-Economics-Society/Research-Project-Template) — starter for organization-owned team projects; choose private for work in progress. This repository is configured as a GitHub template.
+- [Society Operations](https://github.com/Pondi-Uni-Economics-Society/Society-Operations) — private planning, governance and handover workspace; access is limited to its collaborators.
+
+Keep restricted data and personal/confidential information out of GitHub, including private repositories. Publish archive material only with permission and after appropriate review. Store large recordings on an approved external platform and keep their catalogue entries and links here.
 
 ---
 
