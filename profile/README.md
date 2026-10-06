@@ -128,9 +128,7 @@ The Society's activities are supported by five functional verticals:
 
 ## Research & Data
 
-The Society plans to use this GitHub organization as a shared technical and research workspace. As it develops, repositories may hold economic data documentation, analysis scripts, research projects, workshop materials and other academic resources.
-
-When sharing datasets and analysis, contributors should document sources, processing steps and methods so other students can understand and, where feasible, reproduce the work. Only material that is appropriate for public sharing should be published here.
+The Society's public [Database](https://github.com/Pondi-Uni-Economics-Society/Database-) contains documented economic data and reproducible resources. Research projects should cite the exact dataset, source and version they use. Only data that is appropriate for public sharing belongs in a public repository.
 
 ---
 
@@ -158,15 +156,16 @@ Participation complements formal coursework.
 
 ## GitHub & Collaboration
 
-This organization is the Society's shared workspace for research and academic materials. Contributions may include code, data documentation, research notes, analysis and educational resources.
+The organization keeps Society work discoverable and able to continue across student cohorts. Use the repositories according to their audience:
 
-For software and data repositories, contributors should use separate branches for changes, document important methods, request review where appropriate, and avoid publishing credentials, private information or material they do not have permission to share. Repository-specific instructions take precedence.
+- [Society Archive](https://github.com/Pondi-Uni-Economics-Society/Society-Archive) — approved public papers, presentations, event records and links to recordings.
+- [Database](https://github.com/Pondi-Uni-Economics-Society/Database-) — shared, documented economic data resources.
+- [Research Project Template](https://github.com/Pondi-Uni-Economics-Society/Research-Project-Template) — starter layout for a new team project; create Society projects under the organization and keep them private while work is in progress.
+- Society Operations — private workspace for governance drafts, planning and handover; access is limited to its repository collaborators.
 
----
+Project teams should record their question, sources, methods, decisions and handover notes. Publish outputs to the Archive only after author consent and appropriate Society review. Large recordings should be hosted on an approved platform, with only descriptive records and links in GitHub.
 
-## Repository Structure
-
-As the Society's work grows, repositories may be created for research and data, events, the magazine, documentation, analysis tools and educational resources. The structure will develop with members' needs; these are possible future areas, not a list of repositories that already exist.
+Do not put passwords, personal/confidential information, or restricted research data in GitHub—even in private repositories. Use university-approved secure storage for restricted material.
 
 ---
 
